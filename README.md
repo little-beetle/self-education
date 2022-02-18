@@ -16,7 +16,7 @@
 
 ##### [Изучаем Python. 5-е изд. Том 1. Марк Лутц](https://codernet.ru/tem/static/pdfjs/web/viewer.html?file=/media/%D0%98%D0%B7%D1%83%D1%87%D0%B0%D0%B5%D0%BC%20Python.%205-%D0%B5%20%D0%B8%D0%B7%D0%B4.%20%D0%A2%D0%BE%D0%BC%201.%20%D0%9C%D0%B0%D1%80%D0%BA%20%D0%9B%D1%83%D1%82%D1%86/izuchaem_python_5-e_izd_tom_1_mark_lutc_QQYHwCA.pdf)
 
-##### +- [Учим Python, делая крутые игры.](https://ru.pdfdrive.com/%D0%A3%D1%87%D0%B8%D0%BC-python-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5-%D0%B8%D0%B3%D1%80%D1%8B-d191395443.html)
+##### +- (140/418 [Учим Python, делая крутые игры.](https://ru.pdfdrive.com/%D0%A3%D1%87%D0%B8%D0%BC-python-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5-%D0%B8%D0%B3%D1%80%D1%8B-d191395443.html)
 
 ##### [Изучаем программирование на Python](https://ru.pdfdrive.com/%D0%98%D0%B7%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-python-d184785742.html)
 
@@ -27,7 +27,7 @@
 
 ##### + [2019 Практика программирования на Python 3](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) (14 lecture)
 
-##### [Python Full Course 🐍【𝙁𝙧𝙚𝙚】](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=1077s) (50 min)
+##### [Python Full Course 🐍【𝙁𝙧𝙚𝙚】](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=1077s) (1 hour 10 min)
 
 
 ## Courses

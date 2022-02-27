@@ -27,7 +27,7 @@
 
 ##### + [2019 Практика программирования на Python 3](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) (14 lecture)
 
-##### [Python Full Course 🐍【𝙁𝙧𝙚𝙚】](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=1077s) (1 hour 10 min)
+##### [Python Full Course 🐍【𝙁𝙧𝙚𝙚】](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=1077s) (1 hour 30 min)
 
 
 ## Courses
